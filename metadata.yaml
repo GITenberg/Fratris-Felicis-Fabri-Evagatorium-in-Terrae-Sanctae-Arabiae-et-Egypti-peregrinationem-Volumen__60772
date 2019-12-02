@@ -1,0 +1,42 @@
+_repo: Fratris-Felicis-Fabri-Evagatorium-in-Terrae-Sanctae-Arabiae-et-Egypti-peregrinationem-Volumen__60772
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fabri, Felix
+    aliases:
+    - Schmid, Felix
+    - Faber, Felix
+    birthdate: 1441
+    deathdate: 1502
+    gutenberg_agent_id: '50017'
+    url: http://www.gutenberg.org/2009/agents/50017
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Felix_Fabri
+    - https://de.wikipedia.org/wiki/Felix_Fabri
+  editor:
+    agent_name: Hassler, Konrad Dietrich
+    alias: Haßler, Konrad Dietrich
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '50018'
+    url: http://www.gutenberg.org/2009/agents/50018
+    wikipedia: https://de.wikipedia.org/wiki/Konrad_Dietrich_Ha%C3%9Fler
+description: ''
+gutenberg_issued: '2019-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60772'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arabian Peninsula -- Description and travel'
+- !lcc 'PT'
+- !lcsh 'Pilgrims and pilgrimages'
+- !lcsh 'Egypt -- Description and travel'
+- !lcsh 'Palestine -- Description and travel'
+- GITenberg
+title: Fratris Felicis Fabri Evagatorium in Terrae Sanctae, Arabiae et Egypti peregrinationem.
+  Volumen Secundum
+url: http://www.gutenberg.org/ebooks/60772
